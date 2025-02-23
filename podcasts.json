@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Podcast Name 1",
+    "description": "Short description of the podcast.",
+    "rssFeedUrl": "URL_to_podcast_RSS_feed",
+    "websiteUrl": "URL_to_podcast_website",
+    "imageUrl": "URL_to_podcast_cover_art"
+  },
+  {
+    "title": "Podcast Name 2",
+    "description": "Another podcast description.",
+    "rssFeedUrl": "URL_to_podcast_RSS_feed",
+    "websiteUrl": "URL_to_podcast_website",
+    "imageUrl": "URL_to_podcast_cover_art"
+  },
+  // ... more podcasts
+]
